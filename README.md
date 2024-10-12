@@ -1,4 +1,4 @@
-# Age-of-air-Calc
+# Age-of-air_Calc
 Advanced analysis of tracer gas measurements to calculate the efficiency of ventilation in rooms.
 
 ### Installation and activation of Age-of-air_Calc
